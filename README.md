@@ -1,6 +1,3 @@
-Here's a clean, problem-solving project description you can use for your GitHub README or repo intro:
-
----
 
 # 🏥 Medical Data Management System
 
@@ -86,12 +83,4 @@ Once running, you'll be able to:
 
 Stay tuned for visuals of the working UI and a live demo link.
 
----
 
-## 📄 License
-
-MIT License. Free to use and adapt with attribution.
-
----
-
-Let me know if you'd like a Markdown version with formatting ready for a README.md file or if you want to add badges, deployment instructions, or a usage walkthrough.
